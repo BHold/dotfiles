@@ -1,0 +1,21 @@
+{
+    "bitwise"       :true,
+    "camelcase"     :true,
+    "curly"         :true,
+    "immed"         :true,
+    "latedef"       :true,
+    "newcap"        :true,
+    "noarg"         :true,
+    "noempty"       :true,
+    "nonew"         :true,
+    "quotmark"      :true,
+    "undef"         :true,
+    "unused"        :true,
+
+    "eqnull"        :true,
+    "sub"           :true,
+
+    "browser"       :true,
+    "jquery"        :true,
+    "devel"         :true
+}
